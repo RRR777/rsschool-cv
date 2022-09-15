@@ -1,14 +1,19 @@
 # Developer Resume
 
-1. First Name, Last Name (real ones)
-2. Contact Info (add several ways to contact you)
-3. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
-Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
-learning new things from everywhere etc.).
-4. Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.)
-5. Code examples (LATEST)
-6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)
-7. Education (including courses, seminars, lectures, online learning)
-8. English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
+1. Rita Jarmalaviciene
+2. Contact Info: ritaj777@gmail.com
+3. I'm motivated, with strong logical and analytical thinking, proactive, responsible, communicative person who is not afraid of challenges. JavaScript is very popular language. Now its time to learn it and feel comfortable with frontend programming.
+4. Skills:
+   - php - Symfony, Laravel, CodeIgniter frameworks
+   - Magento, Prestashop
+   - HTML, CSS, JavaScript, Vue - framework
+   - mysql
+   - docker
+   - git, github, gilab
+   - Jira,
+5. All my latest code - is not public. Some of the latest code is: https://github.com/RRR777/vuejs;
+7. Education:
+    - Vytautas Magnus University - IT bachelor degree
+    - Baltic Talents Academy - PHP, Laravel
+    - NFQ Academy
+8. I use English every day at work.
